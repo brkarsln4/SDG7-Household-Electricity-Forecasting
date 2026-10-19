@@ -10,10 +10,10 @@ experiment, baseline comparisons and a project proposal.
 A user-facing application is planned for the next stage.
 
 ## Team — Group 7
-- Burak Arslan
-- Buğra Karatepe
-- Zeynep Erva Akdoğan
-- Zeynep Şura Çetin
+- Burak Arslan 22061025
+- Buğra Karatepe 22061032
+- Zeynep Erva Akdoğan 22061049
+- Zeynep Şura Çetin 22069030
 
 ## Dataset
 We use the UCI Individual Household Electric Power Consumption dataset.
