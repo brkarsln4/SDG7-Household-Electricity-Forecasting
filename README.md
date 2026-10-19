@@ -86,14 +86,14 @@ The chart shows the first test day. The results table covers all test hours.
 | File | Purpose |
 |---|---|
 | SDG7_Assignment1_Proposal.pdf | Two-page project proposal |
-| SDG7_Energy_Forecasting.ipynb | Data preparation, model training and evaluation |
+| Untitled0.ipynb | Data preparation, model training and evaluation |
 | household_hourly_clean.csv | Hourly consumption and data-quality indicators |
 | model_comparison.csv | Evaluation metrics for the three methods |
 | test_predictions.csv | Actual consumption and predictions for test hours |
 | first_test_day_forecast.png | Example forecast chart |
 
 ## How to run in Google Colab
-1. Download SDG7_Energy_Forecasting.ipynb from this repository.
+1. Download Untitled0.ipynb from this repository.
 2. Open https://colab.research.google.com/ and upload the notebook.
 3. Download the original dataset from the UCI link above.
 4. Extract household_power_consumption.txt from the downloaded ZIP.
