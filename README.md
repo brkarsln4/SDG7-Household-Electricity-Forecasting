@@ -77,7 +77,7 @@ Random Forest reduced MAE by approximately 18.1% compared with the
 previous-day baseline. This is a reduction in forecasting error,
 not a measured reduction in electricity consumption.
 
-![First test day forecast](first_test_day_forecast.png)
+![First test day forecast](SDG7%20Assignment1/first_test_day_forecast.png)
 
 The chart shows the first test day. The results table covers all test hours.
 
