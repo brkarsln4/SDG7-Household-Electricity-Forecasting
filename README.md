@@ -93,7 +93,7 @@ The chart shows the first test day. The results table covers all test hours.
 | first_test_day_forecast.png | Example forecast chart |
 
 ## How to run in Google Colab
-1. Download Untitled0.ipynb from this repository.
+1. Open the SDG7 Assignment1 folder and download Untitled0.ipynb.
 2. Open https://colab.research.google.com/ and upload the notebook.
 3. Download the original dataset from the UCI link above.
 4. Extract household_power_consumption.txt from the downloaded ZIP.
